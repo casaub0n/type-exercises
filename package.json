@@ -31,6 +31,6 @@
   },
   "dependencies": {
     "conditional-type-checks": "^1.0.0",
-    "tsd": "^0.13.0"
+    "tsd": "^0.14.0"
   }
 }

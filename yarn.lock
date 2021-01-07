@@ -4759,10 +4759,10 @@ ts-node@9.0.0:
     source-map-support "^0.5.17"
     yn "3.1.1"
 
-tsd@^0.13.0:
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/tsd/-/tsd-0.13.0.tgz#b0e651368552e36ab3046c90880011ed2de90054"
-  integrity sha512-eIj5LfYi+9YWWJHMLZz56RTLYMBfqmrS8nrsL0yj59NrkykMTQhgFemX+3Q9TKBkdQzb/XA0QdVgEOH6iMro+w==
+tsd@^0.14.0:
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/tsd/-/tsd-0.14.0.tgz#9bd1c93e925408846949d59fe4754655749a5f2b"
+  integrity sha512-fl1gS5orAwqIb0P2xMdppgCrwv1BfCJn67wBzRBCV9OUaWHVXHqiIqL6yX/519xFgT1ZOaLMhr5W9XDo8kuuRA==
   dependencies:
     eslint-formatter-pretty "^4.0.0"
     globby "^11.0.1"
